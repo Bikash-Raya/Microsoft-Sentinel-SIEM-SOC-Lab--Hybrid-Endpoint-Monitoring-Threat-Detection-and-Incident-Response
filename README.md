@@ -22,6 +22,15 @@
 
 ---
 
+
+## 📁 Repository Structure
+
+| File | Description |
+| --- | --- |
+| [Sentinel-SOC-Lab-Report.pdf](./Sentinel-SOC-Lab-Report.pdf) | Complete project documentation with Screenshots|
+| README.md | Project overview |
+
+---
 ## 📋 Overview
 
 This repository documents the design and implementation of a hybrid Security Information and Event Management (SIEM) laboratory using Microsoft Sentinel.
@@ -287,15 +296,6 @@ The generated incident was reviewed and confirmed as authorized lab testing acti
 * Security Incident Investigation & Response
 * VMware Virtualization
 * Cross-Platform Log Management
-
----
-
-## 📁 Repository Structure
-
-| File | Description |
-| --- | --- |
-| [Sentinel-SOC-Lab-Report.pdf](./Sentinel-SOC-Lab-Report.pdf) | Complete project documentation |
-| README.md | Project overview |
 
 ---
 
