@@ -16,19 +16,17 @@
 ---
 
 **Prepared by:** Bikash Raya
-**Project Type:** SIEM/SOC Lab – Hybrid Endpoint Monitoring & Threat Detection
 
 </div>
 
 ---
 
 
-## 📁 Repository Structure
+## 📁 Full Lab Walkthrough — Proof of Work
 
 | File | Description |
 | --- | --- |
-| [Sentinel-SOC-Lab-Report.pdf](./Sentinel-SOC-Lab-Report.pdf) | Complete project documentation with Screenshots|
-| README.md | Project overview |
+| [Sentinel-SOC-Lab-Report.pdf](./Sentinel-SOC-Lab-Report.pdf) | Hands-on lab walkthrough with screenshots |
 
 ---
 ## 📋 Overview
@@ -302,6 +300,20 @@ The generated incident was reviewed and confirmed as authorized lab testing acti
 ## 🎯 Key Takeaway
 
 > This project demonstrates practical experience in deploying a hybrid SIEM environment using Microsoft Sentinel, onboarding Windows and Linux endpoints via Azure Arc, configuring centralized log collection with AMA and DCR, building custom threat detection analytics rules, and performing end-to-end incident investigation and response across a hybrid cloud infrastructure.
+
+---
+
+## 🔗 Related Projects
+
+> Part of the **Bikash Security Lab** series:
+> * [Microsoft Sentinel & Defender XDR — SOC IR Lab](https://github.com/Bikash-Raya/Sentinel-Defender-XDR-SOC-Incident-Response-lab)
+> * [Microsoft Sentinel — GeoIP Watchlist & Attack Map](https://github.com/Bikash-Raya/microsoft-sentinel-geoip-watchlist-attack-map)
+> * [LummaC2 Threat Hunting — Sentinel & Sysmon](https://github.com/Bikash-Raya/Threat-Hunting-Lab-Sentinel-Sysmon--lummac2-)
+> * [Azure Honeynet — Live Attack Detection](https://github.com/Bikash-Raya/Azure-Honeynet-Live-Attack-Detection-NSG-SQL-Microsoft-Sentinel)
+
+---
+
+> 📄 Thanks for reading! For a full hands-on walkthrough of this lab with screenshots — [download the lab report here](./Sentinel-SOC-Lab-Report.pdf)
 
 ---
 
